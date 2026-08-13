@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/celraaaaaqt/CRUD_JavaScipt_Practice/issues"
   },
-  "homepage": "https://github.com/celraaaaaqt/CRUD_JavaScipt_Practice#readme"
+  "homepage": "https://github.com/celraaaaaqt/CRUD_JavaScipt_Practice#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.23.0"
+  }
 }
